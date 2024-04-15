@@ -1,15 +1,13 @@
-Time_Series_Study-Tesla_Stock
-==============================
+# Time_Series_Study-Tesla_Stock
 
 This is a personal project with the objective of studying time series. How to process this type of data, what models are applied, how to analyze the data. This project is being guided by my FIAP professor, Vinícius Holanda Cavalcante.
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
+    ├── datas
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
@@ -51,7 +49,6 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
---------
+---
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
